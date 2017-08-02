@@ -1,0 +1,10 @@
+{  
+   'InstanceDown':[{  
+      'instance_name':'192.168.56.102:9100',
+      'alert_status':'active'
+   }],
+   'HighCpu':[{  
+      'instance_name':'192.168.56.102:9100',
+      'alert_status':'active'
+   }]
+}

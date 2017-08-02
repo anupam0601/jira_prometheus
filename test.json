@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "project":
+       {
+           "key": "SP"
+       },
+        "summary": " alert for CPU High Usage.",
+        "description": " alert for CPU High Usage.",
+        "issuetype": {
+           "name": "Bug"
+       }
+    }
+}
